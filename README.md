@@ -15,18 +15,18 @@ It also provides syntax error notifications for incorrect code.
 
 ### Installation
 1. **Clone the repository**:
-```
+```sh
     git clone https://github.com/gamalahmedd/Parser.git
     cd parser-app
 ```
 2. **Install the required package**:
-```
+```sh
     pip install nltk customtkinter pillow
 ```
 
 ### Usage
 1. **Run the application**:
-```
+```python
     python app.py
 ```
 2. **Upload Code**: Click the "Upload Code" button to load a `.txt` file containing your code.
